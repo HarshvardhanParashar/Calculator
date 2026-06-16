@@ -1,4 +1,0 @@
-git branch
-git branch demo
-git branch
-git switch // branch name
